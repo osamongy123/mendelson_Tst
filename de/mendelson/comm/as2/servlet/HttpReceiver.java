@@ -56,8 +56,8 @@ public class HttpReceiver extends HttpServlet {
         out.println("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">");
         out.println("<HTML>");
         out.println("    <HEAD>");
-        out.println("        <META NAME=\"description\" CONTENT=\"mendelson-e-commerce GmbH: Your EAI partner\">");
-        out.println("        <META NAME=\"copyright\" CONTENT=\"mendelson-e-commerce GmbH\">");
+        out.println("        <META NAME=\"description\" CONTENT=\"FLOW-e-commerce GmbH: MARS EAI partner\">");
+        out.println("        <META NAME=\"copyright\" CONTENT=\"FLOW-e-commerce GmbH\">");
         out.println("        <META NAME=\"robots\" CONTENT=\"NOINDEX,NOFOLLOW,NOARCHIVE,NOSNIPPET\">");
         out.println("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">");
         out.println("        <title>" + AS2ServerVersion.getProductName() + "</title>");
