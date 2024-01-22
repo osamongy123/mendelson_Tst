@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.97" height="64.1" viewBox="0 0 63.97 64.1">
+  <defs>
+    <style>
+      .a, .d {
+        fill: #fff;
+      }
+
+      .a, .b, .c {
+        stroke: #666;
+      }
+
+      .a, .b, .c, .d, .e {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #fbb03b;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .d {
+        stroke: #fff;
+      }
+
+      .e {
+        fill: #0071bc;
+        stroke: #0071bc;
+      }
+    </style>
+  </defs>
+  <title>notification</title>
+  <polygon class="a" points="63.47 63.6 0.5 63.27 0.5 0.5 63.47 0.5 63.47 63.6"/>
+  <rect class="b" x="9.4" y="22.4" width="43" height="31"/>
+  <polyline class="c" points="52.4 22.4 31.35 40.52 9.4 22.4"/>
+  <line class="c" x1="36.4" y1="36.4" x2="52.4" y2="53.4"/>
+  <line class="c" x1="26.4" y1="36.4" x2="9.4" y2="53.4"/>
+  <polygon class="d" points="21.4 55.4 3.4 55.4 3.4 18.4 32.4 18.4 21.4 55.4"/>
+  <polygon class="e" points="17.4 28.4 8.4 28.4 8.4 25.4 28.4 25.4 17.4 28.4"/>
+  <polygon class="e" points="14.4 38.4 8.4 38.4 8.4 35.4 25.4 35.4 14.4 38.4"/>
+  <polygon class="e" points="11.4 48.4 8.4 48.4 8.4 45.4 22.4 45.4 11.4 48.4"/>
+</svg>

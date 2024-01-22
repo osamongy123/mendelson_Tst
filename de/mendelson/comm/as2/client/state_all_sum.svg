@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>state_all_sum</title>
+  <rect class="a" x="0.5" y="0.5" width="63" height="63"/>
+  <path d="M13.345,50.773V47.644L30.228,30.4v2.959L14.034,14.632V12.64h5.03l15.5,17.928L17.548,48.326l-1.791-2.105h28.39l-3.79,2.845,2.619-10.245H47.11l-.551,11.952ZM39.186,12.64l3.79,2.846h-26.6V12.64H45.388l.55,10.131H41.805Z"/>
+</svg>

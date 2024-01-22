@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+      }
+
+      .a, .b, .c, .d {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #f15a24;
+        stroke: #f15a24;
+      }
+
+      .c {
+        fill: #fbb03b;
+        stroke: #fbb03b;
+      }
+
+      .d {
+        fill: #006837;
+        stroke: #006837;
+      }
+    </style>
+  </defs>
+  <title>reference</title>
+  <rect class="a" x="0.5" y="0.5" width="31" height="31"/>
+  <rect class="b" x="12.5" y="5.5" width="13.5" height="13.5"/>
+  <rect class="c" x="9" y="9" width="13.5" height="13.5"/>
+  <rect class="d" x="5.5" y="12.5" width="13.5" height="13.5"/>
+</svg>

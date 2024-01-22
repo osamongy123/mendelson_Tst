@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+      }
+
+      .a, .b, .c, .d {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #c69c6d;
+        stroke: #c69c6d;
+      }
+
+      .c {
+        fill: #e6e6e6;
+      }
+
+      .c, .d {
+        stroke: #333;
+      }
+
+      .d {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>notes</title>
+  <rect class="a" x="0.5" y="0.5" width="31" height="31"/>
+  <rect class="b" x="4.5" y="4.5" width="22" height="23"/>
+  <rect class="c" x="8.5" y="8.5" width="14" height="17"/>
+  <rect class="d" x="12.5" y="7.5" width="6" height="1"/>
+  <line class="d" x1="11.5" y1="13.5" x2="19.5" y2="13.5"/>
+  <line class="d" x1="11.5" y1="17.5" x2="19.5" y2="17.5"/>
+  <line class="d" x1="11.5" y1="21.5" x2="19.5" y2="21.5"/>
+  <rect class="d" x="7.5" y="5.5" width="16" height="1"/>
+</svg>

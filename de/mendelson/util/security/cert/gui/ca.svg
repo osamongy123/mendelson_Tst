@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        font-size: 21px;
+        fill: #006837;
+        font-family: ComicSansMS-Bold, Comic Sans MS;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>ca</title>
+  <rect class="a" x="0.5" y="0.5" width="31" height="31"/>
+  <text class="b" transform="translate(3.247 23.456) scale(0.908 1)">CA</text>
+</svg>

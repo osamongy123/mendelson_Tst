@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #666;
+      }
+
+      .c {
+        fill: #006837;
+      }
+    </style>
+  </defs>
+  <title>add</title>
+  <g>
+    <rect class="a" x="0.5" y="0.5" width="63" height="63"/>
+    <path class="b" d="M63,1V63H1V1H63m1-1H0V64H64V0Z"/>
+  </g>
+  <polygon class="c" points="49 30 34 30 34 15 29 15 29 30 14 30 14 35 29 35 29 50 34 50 34 35 49 35 49 30"/>
+</svg>

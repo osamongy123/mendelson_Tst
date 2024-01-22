@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #999;
+      }
+
+      .c {
+        fill: #006837;
+        stroke: #006837;
+      }
+
+      .c, .d, .e {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .d {
+        fill: none;
+      }
+
+      .d, .e {
+        stroke: #333;
+        stroke-width: 0.75px;
+      }
+
+      .e {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <title>signal_ok</title>
+  <g>
+    <rect class="a" x="0.125" y="0.125" width="15.75" height="15.75"/>
+    <path class="b" d="M15.75.25v15.5H.25V.25h15.5M16,0H0V16H16V0Z"/>
+  </g>
+  <rect class="c" x="1" y="11" width="14" height="4"/>
+  <polyline class="d" points="2.5 8.5 5.5 5.5 7.5 8.5 10.5 5.5"/>
+  <polyline class="e" points="9.5 4.5 11.5 6.5 13.5 2.5 9.5 4.5"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>Artboard 1</title>
+  <polyline class="a" points="15.5 25.5 24.5 11.5 5.5 11.5 15.5 25.5"/>
+</svg>

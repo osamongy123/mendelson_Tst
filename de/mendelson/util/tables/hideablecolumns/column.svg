@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+      }
+
+      .a, .b, .c, .d {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #2e3192;
+        stroke: #2e3192;
+      }
+
+      .c {
+        fill: #ff0;
+      }
+
+      .c, .d {
+        stroke: #999;
+      }
+
+      .d {
+        fill: #fbb03b;
+      }
+    </style>
+  </defs>
+  <title>column</title>
+  <rect class="a" x="0.5" y="0.5" width="63" height="63"/>
+  <polyline class="b" points="41.46 35.27 50.13 25.37 32.8 25.37 41.46 35.27"/>
+  <rect class="c" x="32.8" y="42.7" width="21.04" height="11.14"/>
+  <rect class="d" x="11.76" y="42.7" width="21.04" height="11.14"/>
+</svg>

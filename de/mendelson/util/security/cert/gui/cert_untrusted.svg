@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+      }
+
+      .a, .b, .c {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #ffbfe4;
+      }
+
+      .b, .c {
+        stroke: #c1272d;
+      }
+
+      .c {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>cert_untrusted</title>
+  <rect class="a" x="0.5" y="0.5" width="31" height="31"/>
+  <rect class="b" x="4.5" y="8.5" width="22" height="17"/>
+  <line class="c" x1="11.5" y1="14.5" x2="19.5" y2="19.5"/>
+  <line class="c" x1="19.5" y1="14.5" x2="11.5" y2="19.5"/>
+</svg>

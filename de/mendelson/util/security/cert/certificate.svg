@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#666666;}
+	.st2{fill:#006837;}
+</style>
+<g>
+	<rect x="0.5" y="0.5" class="st0" width="63" height="63"/>
+	<path class="st1" d="M63,1v62H1V1H63 M64,0H0v64h64V0L64,0z"/>
+</g>
+<path class="st2" d="M37.1,53c-0.1,0-0.2,0-0.3-0.1c-0.5-0.2-0.8-0.7-0.6-1.3L41,37.1c0.1-0.5,0.6-0.7,1.1-0.7
+	c0.5,0.1,0.8,0.4,0.9,0.9l1.2,14.5c0,0.6-0.4,1-0.9,1.1c-0.5,0.1-1-0.4-1.1-0.9l-0.8-9.6l-3.3,10C37.9,52.7,37.5,53,37.1,53z"/>
+<g>
+	<path class="st2" d="M41.9,42.4c-2.8,0-5-2.2-5-5c0-2.8,2.2-5,5-5c2.8,0,5,2.2,5,5C46.9,40.2,44.7,42.4,41.9,42.4z"/>
+</g>
+<polyline class="st2" points="13,23 13,45 50,45 50,22 13,22 13,23 11,23 11,20 52,20 52,47 11,47 11,23 "/>
+<rect x="16" y="27" class="st2" width="13" height="2"/>
+<rect x="16" y="32" class="st2" width="13" height="2"/>
+<rect x="16" y="37" class="st2" width="13" height="2"/>
+</svg>

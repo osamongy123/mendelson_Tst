@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: gray;
+      }
+
+      .a, .b {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #333;
+        stroke: #333;
+      }
+    </style>
+  </defs>
+  <title>messagedetails</title>
+  <rect class="a" x="0.5" y="0.5" width="63" height="63"/>
+  <polyline class="b" points="12.5 24.5 41.5 24.5 41.5 15.5 54.5 25.5 12.5 25.5 12.5 24.5"/>
+  <polyline class="b" points="51.5 38.5 9.5 38.5 22.5 48.5 22.5 39.5 51.5 39.5 51.5 38.5"/>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.967" height="64.099" viewBox="0 0 63.967 64.099">
+  <defs>
+    <style>
+      .a, .d {
+        fill: #fff;
+      }
+
+      .a {
+        stroke: #666;
+      }
+
+      .a, .b, .c, .d, .e {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #999;
+      }
+
+      .b, .c, .d, .e, .g {
+        stroke: #4d4d4d;
+      }
+
+      .c {
+        fill: gray;
+      }
+
+      .e, .g {
+        fill: none;
+      }
+
+      .f {
+        fill: #4d4d4d;
+      }
+
+      .g {
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>maintenance</title>
+  <polygon class="a" points="63.467 63.599 0.5 63.269 0.5 0.5 63.467 0.5 63.467 63.599"/>
+  <circle class="b" cx="24.144" cy="22.446" r="17.242"/>
+  <circle class="c" cx="48.775" cy="50.771" r="8.621"/>
+  <rect class="d" x="21.681" y="19.982" width="4.926" height="4.926"/>
+  <rect class="d" x="47.543" y="49.539" width="2.463" height="2.463"/>
+  <line class="e" x1="11.829" y1="34.761" x2="42.617" y2="56.929"/>
+  <line class="e" x1="38.922" y1="13.825" x2="54.933" y2="44.613"/>
+  <path class="f" d="M12.116,11.147a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M9.355,13.907a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M7.244,18.7a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M7.081,26.25a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M8.137,29.579a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M9.517,32.259a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M12.2,35.832a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M14.876,38.1a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M20.479,42.246a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M23.809,44.276a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M26.732,46.469a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M29.411,48.742a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M32.416,50.691a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M35.177,52.64a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M38.425,55a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M41.835,57.35a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M45,59.461a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M49.143,60.516a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M52.635,59.623a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M55.558,57.268a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M57.263,53.939a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M57.344,50.123a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M55.883,46.388a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M53.69,43.14a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M51.985,39.81a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M50.361,36.725a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M48.575,33.233a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M46.626,29.417a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M45.083,26.331a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M43.215,22.839a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M41.1,19.267a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M39.805,16.262a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M38.1,13.177a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M35.339,10.416a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M32.5,8.305a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M29.493,6.924a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M25.839,6.031a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M22.1,6.356a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M18.774,7.086a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M15.364,8.792a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M7,22.433a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <path class="f" d="M17.637,39.973a1,1,0,0,0,0-2,1,1,0,0,0,0,2Z" transform="translate(-0.104 -0.104)"/>
+  <rect class="g" x="24.236" y="22.538" width="0.012" height="0.012" transform="translate(48.38 44.983) rotate(180)"/>
+</svg>

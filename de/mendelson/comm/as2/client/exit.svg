@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a, .c {
+        fill: #fff;
+      }
+
+      .a {
+        stroke: gray;
+      }
+
+      .a, .d {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b, .d {
+        fill: #c1272d;
+      }
+
+      .d {
+        stroke: #c1272d;
+      }
+    </style>
+  </defs>
+  <title>exit</title>
+  <rect class="a" x="0.5" y="0.5" width="31" height="31"/>
+  <circle class="b" cx="16" cy="16" r="12"/>
+  <circle class="c" cx="16" cy="16" r="8"/>
+  <rect class="c" x="11" y="3" width="10" height="8"/>
+  <rect class="d" x="14.5" y="4.5" width="3" height="12"/>
+</svg>

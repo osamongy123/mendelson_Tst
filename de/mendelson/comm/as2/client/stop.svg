@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a, .d {
+        fill: #fff;
+      }
+
+      .a {
+        stroke: gray;
+      }
+
+      .a, .b, .c {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #c1272d;
+        stroke: #c1272d;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .c, .d {
+        stroke: #fff;
+      }
+
+      .d {
+        font-size: 20.13px;
+        stroke-miterlimit: 10;
+        font-family: MyriadPro-Regular, Myriad Pro;
+        letter-spacing: 0.12em;
+      }
+
+      .e {
+        letter-spacing: 0.09em;
+      }
+    </style>
+  </defs>
+  <title>stop</title>
+  <rect class="a" x="0.5" y="0.5" width="63" height="63"/>
+  <polyline class="b" points="23.49 11.33 12.55 23.49 12.55 40.51 23.49 51.45 40.51 51.45 51.45 40.51 51.45 23.49 40.51 11.33 23.49 11.33"/>
+  <polyline class="c" points="23.49 12.55 13.77 23.49 13.77 40.51 23.49 50.23 40.51 50.23 50.23 40.51 50.23 23.49 40.51 12.55 23.49 12.55"/>
+  <text class="d" transform="translate(17.41 38.08) scale(0.59 1)">S<tspan class="e" x="12.28" y="0">T</tspan><tspan x="24.1" y="0">OP</tspan></text>
+</svg>

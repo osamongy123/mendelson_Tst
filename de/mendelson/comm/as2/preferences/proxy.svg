@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.967" height="64.099" viewBox="0 0 63.967 64.099">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+        stroke: #666;
+      }
+
+      .a, .b {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        fill: #4d4d4d;
+        stroke: #4d4d4d;
+      }
+    </style>
+  </defs>
+  <title>proxy</title>
+  <polygon class="a" points="63.467 63.599 0.5 63.269 0.5 0.5 63.467 0.5 63.467 63.599"/>
+  <path class="b" d="M19.5,41.5v-1a6,6,0,0,1,6-6h12a8,8,0,0,0,8-8v-1a8,8,0,0,0-8-8h-13v2h13a6,6,0,0,1,6,6v1a6,6,0,0,1-6,6h-12a8,8,0,0,0-8,8v1a8,8,0,0,0,8,8h13v-2h-13a6,6,0,0,1-6-6h0" transform="translate(-0.104 -0.104)"/>
+  <polygon class="b" points="53.396 45.396 42.396 45.396 42.396 51.396 53.396 51.396 55.396 48.396 53.396 45.396"/>
+  <polygon class="b" points="9.396 15.396 7.396 18.396 9.396 21.396 20.396 21.396 20.396 15.396 9.396 15.396"/>
+</svg>
